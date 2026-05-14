@@ -1,7 +1,4 @@
-#Runtime Polymorphism in Java – GitHub Guide
-Program Description (for README)
-
-Runtime Polymorphism in Java
+# Runtime Polymorphism in Java
 A beginner-friendly Java program demonstrating runtime polymorphism (dynamic method dispatch) — one of the four pillars of Object-Oriented Programming.
 
 What it covers:
